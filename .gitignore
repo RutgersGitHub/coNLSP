@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+.DS_Store
+*.root
+*.dat
+
+# Except this file
+!.gitignore
